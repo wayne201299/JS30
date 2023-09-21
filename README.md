@@ -1,27 +1,34 @@
-# EcWeb
+透過 [WES BOS](https://courses.wesbos.com/account/access/5efef522055a68151fb7e680) 與 [Freecodecamp](https://www.freecodecamp.org/news/javascript-projects-for-beginners/) 的課程來一步步打好基礎
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.9.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+| 項目                                          | 筆記 | 連結 |
+| --------------------------------------------- | ---- | ---- |
+| JavaScript Drum Kit                           |      |      |
+| JS and CSS Clock                              |      |      |
+| CSS Variables                                 |      |      |
+| Array Cardio Day 1                            |      |      |
+| Flex Panel Gallery                            |      |      |
+| Type Ahead                                    |      |      |
+| Array Cardio Day 2                            |      |      |
+| Fun with HTML5 Canvas                         |      |      |
+| Dev Tools Domination                          |      |      |
+| Hold Shift and Check Checkboxes               |      |      |
+| Custom Video Player                           |      |      |
+| Key Sequence Detection                        |      |      |
+| Slide in on Scroll                            |      |      |
+| JavaScript References VS Copying              |      |      |
+| LocalStorage                                  |      |      |
+| Mouse Move Shadow                             |      |      |
+| Sort Without Articles                         |      |      |
+| Adding Up Times with Reduce                   |      |      |
+| Webcam Fun                                    |      |      |
+| Speech Detection                              |      |      |
+| Geolocation                                   |      |      |
+| Follow Along Link Highlighter                 |      |      |
+| Speech Synthesis                              |      |      |
+| Sticky Nav                                    |      |      |
+| Event Capture, Propagation, Bubbling and Once |      |      |
+| Stripe Follow Along Nav                       |      |      |
+| Click and Drag                                |      |      |
+| Video Speed Controller                        |      |      |
+| Countdown Timer                               |      |      |
+| Whack A Mole                                  |      |      |
