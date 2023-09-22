@@ -1,8 +1,11 @@
 課程來源
-[WES BOS](https://courses.wesbos.com/account/access/5efef522055a68151fb7e680)
-[Freecodecamp](https://www.freecodecamp.org/news/javascript-projects-for-beginners/)
+
+-   [WES BOS](https://courses.wesbos.com/account/access/5efef522055a68151fb7e680)
+-   [Freecodecamp](https://www.freecodecamp.org/news/javascript-projects-for-beginners/)
+
 筆記
-[JavaScript 30 筆記](https://code-surfing.coderbridge.io/series/475b9b6babe4472eb4b9fb4f123f167e)
+
+-   [JavaScript 30 筆記](https://code-surfing.coderbridge.io/series/475b9b6babe4472eb4b9fb4f123f167e)
 
 | 項目                                          | 筆記                                                 | 連結                                                                 |
 | --------------------------------------------- | ---------------------------------------------------- | -------------------------------------------------------------------- |
