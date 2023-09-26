@@ -18,7 +18,7 @@
 |
 Ajax Type Ahead|模擬 API 串接| [DEMO](https://wayne201299.github.io/vanillaJS/06_TypeAhead/)|
 | Array Cardio Day 2 | Array 常用的操作方法，包含 some、every、find、findIndex、splice、slice | [DEMO](https://wayne201299.github.io/vanillaJS/07_ArrayCardio02/) |
-| Fun with HTML5 Canvas | | |
+| Fun with HTML5 Canvas |HTML5 canvas 用法|[DEMO](https://wayne201299.github.io/vanillaJS/08_HTML5Canvas/) |
 | Dev Tools Domination | | |
 | Hold Shift and Check Checkboxes | | |
 | Custom Video Player | | |
