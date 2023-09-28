@@ -1,14 +1,12 @@
-課程來源
+# JavaScript 30 
+用最純的方式開發前端吧!不包含任何第三方套件，只用HTML+CSS+JavaScript來做的30個項目
+> [JavaScript30](https://wesbos.com/courses) 作者: [Wes Bos](https://github.com/wesbos)，課程完整[Github Repo](https://github.com/wesbos/JavaScript30)
 
--   [WES BOS](https://courses.wesbos.com/account/access/5efef522055a68151fb7e680)
--   [Freecodecamp](https://www.freecodecamp.org/news/javascript-projects-for-beginners/)
+[課堂上的筆記](https://code-surfing.coderbridge.io/series/475b9b6babe4472eb4b9fb4f123f167e)
 
-筆記
-
--   [JavaScript 30 練習筆記](https://code-surfing.coderbridge.io/series/475b9b6babe4472eb4b9fb4f123f167e)
--   [JavaScript30 Github](https://github.com/wesbos/JavaScript30)
-
-| 項目                                          | 心得                                                                   | 連結                                                                                              |
+# 目錄
+可以透過DEMO看到最後結果
+| 項目                                          | 內容                                                                   | 連結                                                                                              |
 | --------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 | JavaScript Drum Kit                           | 理解如何在 document 中取得想要的 element                               | [DEMO](https://wayne201299.github.io/vanillaJS/01%20-%20Drum%20Kit/)                              |
 | JS and CSS Clock                              | 透過 transition 動畫實作時鐘，動態修改 CSS                             | [DEMO](https://wayne201299.github.io/vanillaJS/02%20-%20Clock/)                                   |
