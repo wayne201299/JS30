@@ -22,7 +22,7 @@
 | Dev Tools Domination | Google Chrome 開發者工具中的實用技巧 | [DEMO](https://wayne201299.github.io/JS30/09%20-%20DevTools%20Domination/) |
 | Hold Shift and Check Checkboxes | 按住 shift 並將其中所有的 checkbox 打勾 | [DEMO](https://wayne201299.github.io/JS30/10%20-%20Hold%20Shift%20And%20Check%20Checkboxes/) |
 | Custom Video Player | 理解 HTML5 中 Video 標籤的使用 | [DEMO](https://wayne201299.github.io/JS30/11%20-%20Custom%20Video%20Player/) |
-| Key Sequence Detection | | [DEMO](https://wayne201299.github.io/JS30/12%20-%20Key%20Sequence%20Detection/) |
+| Key Sequence Detection |secret code| [DEMO](https://wayne201299.github.io/JS30/12%20-%20Key%20Sequence%20Detection/) |
 | Slide in on Scroll | debounce 實作 | [DEMO](https://wayne201299.github.io/JS30/13%20-%20Slide%20in%20on%20Scroll/)|
 | JavaScript References VS Copying|探討 JavaScript 中的傳值機制| [DEMO](https://wayne201299.github.io/JS30/14%20-%20JavaScript%20References%20VS%20Copying/)|
 | LocalStorage |瀏覽器的暫存機制|[DEMO](https://wayne201299.github.io/JS30/15%20-%20LocalStorage/)|
