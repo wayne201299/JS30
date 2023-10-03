@@ -32,8 +32,8 @@
 | Webcam Fun |瀏覽器中攝像頭的拍照及濾鏡|[DEMO](https://wayne201299.github.io/JS30/19%20-%20Webcam%20Fun/)|
 | Speech Detection | |[DEMO](https://wayne201299.github.io/JS30/20%20-%20Speech%20Detection/)|
 | Geolocation |地理位置 Web API|[DEMO](https://wayne201299.github.io/JS30/21%20-%20Geolocation/)|
-| Follow Along Link Highlighter | | [DEMO](https://wayne201299.github.io/JS30/22%20-%20Follow%20Along%20Link%20Highlighter/)|
-| Speech Synthesis | | |
+| Follow Along Link Highlighter |計算 DOM element 的相對位置| [DEMO](https://wayne201299.github.io/JS30/22%20-%20Follow%20Along%20Link%20Highlighter/)|
+| Speech Synthesis | |[DEMO](https://wayne201299.github.io/JS30/23%20-%20Speech%20Synthesis/)|
 | Sticky Nav | | |
 | Event Capture, Propagation, Bubbling and Once | | |
 | Stripe Follow Along Nav | | |
