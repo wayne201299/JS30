@@ -31,8 +31,8 @@
 | Adding Up Times with Reduce |Array 的 map、reduce|[DEMO](https://wayne201299.github.io/JS30/18%20-%20Adding%20Up%20Times%20with%20Reduce/)|
 | Webcam Fun |瀏覽器中攝像頭的拍照及濾鏡|[DEMO](https://wayne201299.github.io/JS30/19%20-%20Webcam%20Fun/)|
 | Speech Detection | |[DEMO](https://wayne201299.github.io/JS30/20%20-%20Speech%20Detection/)|
-| Geolocation | | |
-| Follow Along Link Highlighter | | |
+| Geolocation |地理位置 Web API|[DEMO](https://wayne201299.github.io/JS30/21%20-%20Geolocation/)|
+| Follow Along Link Highlighter | | [DEMO](https://wayne201299.github.io/JS30/22%20-%20Follow%20Along%20Link%20Highlighter/)|
 | Speech Synthesis | | |
 | Sticky Nav | | |
 | Event Capture, Propagation, Bubbling and Once | | |
