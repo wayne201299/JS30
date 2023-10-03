@@ -30,7 +30,7 @@
 | Sort Without Articles |正則表示式替換特定字元|[DEMO](https://wayne201299.github.io/JS30/17%20-%20Sort%20Without%20Articles/)|
 | Adding Up Times with Reduce |Array 的 map、reduce|[DEMO](https://wayne201299.github.io/JS30/18%20-%20Adding%20Up%20Times%20with%20Reduce/)|
 | Webcam Fun |瀏覽器中攝像頭的拍照及濾鏡|[DEMO](https://wayne201299.github.io/JS30/19%20-%20Webcam%20Fun/)|
-| Speech Detection | | |
+| Speech Detection | |[DEMO](https://wayne201299.github.io/JS30/20%20-%20Speech%20Detection/)|
 | Geolocation | | |
 | Follow Along Link Highlighter | | |
 | Speech Synthesis | | |
