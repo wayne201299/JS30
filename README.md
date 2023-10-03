@@ -33,8 +33,8 @@
 | Speech Detection | |[DEMO](https://wayne201299.github.io/JS30/20%20-%20Speech%20Detection/)|
 | Geolocation |地理位置 Web API|[DEMO](https://wayne201299.github.io/JS30/21%20-%20Geolocation/)|
 | Follow Along Link Highlighter |計算 DOM element 的相對位置| [DEMO](https://wayne201299.github.io/JS30/22%20-%20Follow%20Along%20Link%20Highlighter/)|
-| Speech Synthesis | |[DEMO](https://wayne201299.github.io/JS30/23%20-%20Speech%20Synthesis/)|
-| Sticky Nav | | |
+| Speech Synthesis |使用 Web Speech API 建立變聲器|[DEMO](https://wayne201299.github.io/JS30/23%20-%20Speech%20Synthesis/)|
+| Sticky Nav | |[DEMO](https://wayne201299.github.io/JS30/24%20-%20Sticky%20Nav/)|
 | Event Capture, Propagation, Bubbling and Once | | |
 | Stripe Follow Along Nav | | |
 | Click and Drag | | |
