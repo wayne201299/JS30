@@ -34,9 +34,9 @@
 | Geolocation |地理位置 Web API|[DEMO](https://wayne201299.github.io/JS30/21%20-%20Geolocation/)|
 | Follow Along Link Highlighter |計算 DOM element 的相對位置| [DEMO](https://wayne201299.github.io/JS30/22%20-%20Follow%20Along%20Link%20Highlighter/)|
 | Speech Synthesis |使用 Web Speech API 建立變聲器|[DEMO](https://wayne201299.github.io/JS30/23%20-%20Speech%20Synthesis/)|
-| Sticky Nav | |[DEMO](https://wayne201299.github.io/JS30/24%20-%20Sticky%20Nav/)|
-| Event Capture, Propagation, Bubbling and Once | |[DEMO](https://wayne201299.github.io/JS30/25%20-%20Event%20Capture,%20Propagation,%20Bubbling%20and%20Once/)|
-| Stripe Follow Along Nav |相對位置練|[DEMO](https://wayne201299.github.io/JS30/26%20-%20Stripe%20Follow%20Along%20Nav/)|
+| Sticky Nav |置頂 nav|[DEMO](https://wayne201299.github.io/JS30/24%20-%20Sticky%20Nav/)|
+| Event Capture, Propagation, Bubbling and Once |JavaScript Bubbling|[DEMO](https://wayne201299.github.io/JS30/25%20-%20Event%20Capture,%20Propagation,%20Bubbling%20and%20Once/)|
+| Stripe Follow Along Nav |相對位置|[DEMO](https://wayne201299.github.io/JS30/26%20-%20Stripe%20Follow%20Along%20Nav/)|
 | Click and Drag |幻燈片輪播|[DEMO](https://wayne201299.github.io/JS30/27%20-%20Click%20and%20Drag/)|
 | Video Speed Controller |video API 運用|[DEMO](https://wayne201299.github.io/JS30/28%20-%20Video%20Speed%20Controller/)|
 | Countdown Timer |番茄鐘，時間運算|[DEMO](https://wayne201299.github.io/JS30/29%20-%20Countdown%20Timer/)|
